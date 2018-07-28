@@ -1,7 +1,7 @@
 {
   "name": "@okunishinishi/signal-master",
   "description": "Simple signaling server for SimpleWebRTC",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "dependencies": {
     "getconfig": "^4.3.0",
     "node-uuid": "1.2.0",
